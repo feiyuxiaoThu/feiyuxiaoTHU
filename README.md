@@ -1,14 +1,6 @@
 <h2>Hi 👋, I'm Feiyu Xiao</h2>
 <h3>A PhD student, software engineer and life-long learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xtenzq&label=Profile%20views&color=0e75b6&style=flat" alt="xtenzq" /> </p>
-
-<a href="https://twitter.com/xtenzq" target="blank"><img align="left" src="icons/twitter.svg" alt="xtenzq" width="22px" /></a>
-<a href="https://linkedin.com/in/xtenzq" target="blank"><img align="left" src="icons/linkedin.svg" alt="xtenzq" width="22px" /></a>
-<a href="https://fb.com/nrusetski" target="blank"><img align="left" src="icons/facebook.svg" alt="xtenzq" width="22px" /></a>
-<a href="https://instagram.com/nrusetski" target="blank"><img align="left" src="icons/instagram.svg" alt="xtenzq" width="22px" /></a>
-<a href="https://www.leetcode.com/xtenzq" target="blank"><img align="left" src="icons/leetcode.svg" alt="xtenzq" width="22px" /></a>
-<br />
 
 ### Info
 * 🔬 Researcher at **[@compvis-lab](https://compvis.ru/)**;
@@ -29,9 +21,6 @@
 * 📄 2021 [A Study on the Effect of Energy Storage System Optimal Operation...](https://www.researchgate.net/publication/353072993_A_Study_on_the_Effect_of_Energy_Storage_System_Optimal_Operation_with_Distributed_Generators_on_System_Reliability)
 * 📄 2021 [The Optimal Allocation of Distributed Generators Considering Fault...](https://www.researchgate.net/publication/348445556_The_Optimal_Allocation_of_Distributed_Generators_Considering_Fault_Current_and_Levelized_Cost_of_Energy_Using_the_Particle_Swarm_Optimization_Method)
 * 📄 2020 [Optimal Distributed Generation Selection Using Particle Swarm Optimization](https://www.researchgate.net/publication/344692175_Optimal_Distributed_Generation_Selection_Using_Particle_Swarm_Optimization)
-
-![](https://raw.githubusercontent.com/xtenzQ/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/xtenzQ/github-stats-transparent/output/generated/languages.svg)
 
 
 
