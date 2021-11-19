@@ -4,8 +4,8 @@
 
 ### Info
 * 🔬 Researcher at **[@THU-QingZhouLab](https://www.researchgate.net/lab/Qing-Zhou-Lab)**;
-* 💻 Java Software Engineer working for **[Transneft Technology, LLC](https://en.transneft.ru/subsidiaries-company/service-company/transneft-technology-llc/)**;
-* 🌏 Exchange student of **[Inha University](https://eng.inha.ac.kr/)** (2nd semester of 2019);
+* 💻 Vehicle Engineer intern for **[Toyota Central R&D Labs](https://www.tytlabs.com/)** with Dr. **[Yuichi Kitagawa](http://ircobi.org/wordpress/who-is-involved/)**;
+* 🌏 Visting student of **[Tokyo University](https://eng.inha.ac.kr/)** with Prof. **[Junichiro Shiomi](http://www.phonon.t.u-tokyo.ac.jp/people/shiomi/?lang=en)**;
 * 🎓 Master student at THU under supervision of prof. **[Qing Zhou](http://www.svm.tsinghua.edu.cn/essay/75/1831.html)**;
 * 📄 Check my **[Profile](https://www.linkedin.com/in/feiyuxiao/)** and **[website](https://feiyuxiaothu.github.io/)** for more info;
 * 🎉 Fun fact: I signed up at GitHub 7 years ago!
