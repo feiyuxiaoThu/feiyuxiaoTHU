@@ -1,9 +1,9 @@
 <h2>Hi 👋, I'm Feiyu Xiao</h2>
-<h3>A PhD student, software engineer and life-long learner</h3>
+<h3>Autonomous driving software engineer and life-long learner</h3>
 
 
 ### Info
-* 🔬 Researcher at **[@compvis-lab](https://compvis.ru/)**;
+* 🔬 Researcher at **[@THU-QingZhouLab](https://www.researchgate.net/lab/Qing-Zhou-Lab)**;
 * 💻 Java Software Engineer working for **[Transneft Technology, LLC](https://en.transneft.ru/subsidiaries-company/service-company/transneft-technology-llc/)**;
 * 🌏 Exchange student of **[Inha University](https://eng.inha.ac.kr/)** (2nd semester of 2019);
 * 🎓 PhD student (CE) at INRTU under supervision of prof. **[Denis Sidorov](http://www.mathnet.ru/eng/person17845)**;
