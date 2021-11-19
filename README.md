@@ -9,6 +9,7 @@
 <a href="https://instagram.com/nrusetski" target="blank"><img align="left" src="icons/instagram.svg" alt="xtenzq" width="22px" /></a>
 <a href="https://www.leetcode.com/xtenzq" target="blank"><img align="left" src="icons/leetcode.svg" alt="xtenzq" width="22px" /></a>
 <br />
+
 ### Info
 * 🔬 Researcher at **[@compvis-lab](https://compvis.ru/)**;
 * 💻 Java Software Engineer working for **[Transneft Technology, LLC](https://en.transneft.ru/subsidiaries-company/service-company/transneft-technology-llc/)**;
