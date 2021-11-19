@@ -1,10 +1,4 @@
-## Hi, 👋  I'm <a href="https://charmve.github.io/" target="_blank">Feiyu Xiao (Charmve<sup><a href="https://github.com/Charmve/Charmve/blob/master/OctoCharmve/pronounce.m4a?raw=true" title="pronounce">`🔊`</a></sup>)</a> 
-
-<img align="left" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" title="Say HI"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
-<br>
-
-<h2>Hi 👋, I'm Nikita</h2>
+<h2>Hi 👋, I'm Feiyu Xiao</h2>
 <h3>A PhD student, software engineer and life-long learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xtenzq&label=Profile%20views&color=0e75b6&style=flat" alt="xtenzq" /> </p>
