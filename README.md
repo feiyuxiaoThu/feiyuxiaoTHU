@@ -6,8 +6,8 @@
 * 🔬 Researcher at **[@THU-QingZhouLab](https://www.researchgate.net/lab/Qing-Zhou-Lab)**;
 * 💻 Java Software Engineer working for **[Transneft Technology, LLC](https://en.transneft.ru/subsidiaries-company/service-company/transneft-technology-llc/)**;
 * 🌏 Exchange student of **[Inha University](https://eng.inha.ac.kr/)** (2nd semester of 2019);
-* 🎓 PhD student (CE) at INRTU under supervision of prof. **[Denis Sidorov](http://www.mathnet.ru/eng/person17845)**;
-* 📄 Check my **[CV](https://github.com/xtenzQ/latex-simple-cv/blob/main/cv.pdf)** and **[website](https://rusetskii.dev/)** for more info;
+* 🎓 Master student at THU under supervision of prof. **[Qing Zhou](http://www.svm.tsinghua.edu.cn/essay/75/1831.html)**;
+* 📄 Check my **[Profile](https://www.linkedin.com/in/feiyuxiao/)** and **[website](https://feiyuxiaothu.github.io/)** for more info;
 * 🎉 Fun fact: I signed up at GitHub 7 years ago!
 
 ### Recent achievements 🏆
