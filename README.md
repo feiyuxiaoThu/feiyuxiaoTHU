@@ -10,8 +10,8 @@
 
 
 ### Recent achievements 🏆
-* 🏆 2021 **[KIEE 52nd Summer Conference](https://conf.kiee.or.kr/)** Excellence Award (as co-author);
-* 🥉 2020 **[JunctionX Seoul](https://app.hackjunction.com/events/junctionx-seoul)** Hackathon Finalist (3rd winner in SIA Track with project SmartMonitor).
+* 🏆 2021 **[Direction-dependent intern damage characteristic and early diagnosis of prismatic Li-ion batteries under mechanical abuse](https://conf.kiee.or.kr/)** Outstanding Master thesis ();
+* 🥉 2020 
 
 ### Research
 
