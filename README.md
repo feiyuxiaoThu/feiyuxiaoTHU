@@ -10,7 +10,7 @@
 
 
 ### Recent achievements 🏆
-* 🏆 2021 **[Direction-dependent intern damage characteristic and early diagnosis of prismatic Li-ion batteries under mechanical abuse]** **Outstanding Master thesis**;
+* 🏆 2021 Direction-dependent intern damage characteristic and early diagnosis of prismatic Li-ion batteries under mechanical abuse **Outstanding Master thesis**;
 * 🥉 2020 
 
 ### Research
