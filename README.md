@@ -3,16 +3,10 @@
 
 ![re250 (Small)](https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/long.jpg)
 
-<center>
-<figure>
-<img src="https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/long.jpg" />
-·
-·
-·
-<img src="https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/long.jpg" />
-</figure>
+<center class="half">
+    <img src="https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/long.jpg" width="150"/>
+    <img src="https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/long.jpg" width="150"/>
 </center>
-
 
 ### Info
 * 🔬 Master student under supervision of **[Prof. Qing Zhou](http://www.svm.tsinghua.edu.cn/essay/75/1831.html)**;
