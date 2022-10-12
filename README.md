@@ -1,6 +1,6 @@
 <h2>Hi 👋, I'm Feiyu Xiao</h2>
 <h3>Autonomous driving software engineer and life-long learner</h3>
-![re500 (Small)](https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/long.jpg)
+![](https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/long.jpg)
 
 
 ### Info
