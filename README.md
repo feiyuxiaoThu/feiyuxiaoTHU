@@ -8,6 +8,8 @@
     <img src="https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/long.jpg" width="330"/>
 </p>
 
+<img src="https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/group.jpg" width="800"/>
+
 ### Info
 * 🔬 Master student under supervision of **[Prof. Qing Zhou](http://www.svm.tsinghua.edu.cn/essay/75/1831.html)**;
 * 💻 Research intern for **[Toyota Central R&D Labs](https://www.tytlabs.com/)** with **[Dr. Yuichi Kitagawa](http://ircobi.org/wordpress/who-is-involved/)**;
