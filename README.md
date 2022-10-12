@@ -7,10 +7,7 @@
 <img src="https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/xinya.jpeg" width="500"/>
 </p>
 
-<p float="left">
-<img src="https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/quantum.jpeg" width="450"/>
-<img src="https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/tsien.jpeg" width="450"/>
-</p>
+
 
 ### Info
 * 🔬 Master student under supervision of **[Prof. Qing Zhou](http://www.svm.tsinghua.edu.cn/essay/75/1831.html)**;
