@@ -3,8 +3,8 @@
 
 
 <p float="left">
-<img src="https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/group.jpeg" width="350"/>
-<img src="https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/xinya.jpeg" width="350"/>
+<img src="https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/group.jpeg" width="400"/>
+<img src="https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/xinya.jpeg" width="400"/>
 </p>
 
 
@@ -23,7 +23,8 @@
 
 🌱 I’m currently learning robot SLAM and DL-based motion prediction.
 
-🤔 I’m developing projects on specific topics like *urban intesection driving* and *non-cooperative merging control*, and I'm open to related discussions!
+🤔 I’m developing projects on specific topics like *urban intesection driving* and *non-cooperative merging control*, and I'm open to 
+related discussions!
 
 💬 I have research experience in lithium-ion batteries and solid mechanics and ask me about those topics.
 
