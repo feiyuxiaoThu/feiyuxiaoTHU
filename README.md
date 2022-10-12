@@ -3,8 +3,8 @@
 
 
 <p float="left">
-    <img src="https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/xinya.jpg" width="450"/>
-    <img src="https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/quantum.jpg" width="450"/>
+<img src="https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/xinya.jpeg" width="450"/>
+<img src="https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/quantum.jpeg" width="450"/>
 </p>
 
 <p float="left">
