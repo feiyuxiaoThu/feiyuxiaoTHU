@@ -12,9 +12,10 @@
 
 ### Research
 
-* 📄 2021 [Direction-dependent mechanical-electrical-thermal responses of large-format prismatic Li-ion battery under mechanical abuse](https://www.sciencedirect.com/science/article/abs/pii/S2352152X21009658?via%3Dihub)
-* 📄 2021 [Impedance-based diagnosis of internal mechanical damage for large-format lithium-ion batteries](https://www.sciencedirect.com/science/article/abs/pii/S0360544221011038?via%3Dihub)
-* 📄 2020 [Mechanical Response of Laterally-Constrained Prismatic Battery Cells under Local Loading](https://saemobilus.sae.org/content/2020-01-0200/)
+🔭 My main interests focus on Motion Planning and Decision Making in Mobile Robos(Especially in autonomous vehicles). 
+🌱 I’m currently learning robot SLAM and DL-based motion prediction.
+🤔 I’m developing projects on specific topics like urban intesection driving and non-cooperative merging control, and I'm open to related discussions!
+💬 I have research experience in lithium-ion batteries and solid mechanics and ask me about those hhh.
 
 
 ---
