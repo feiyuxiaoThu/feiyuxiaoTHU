@@ -18,7 +18,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feiyuxiaoThu)](https://github.com/anuraghazra/github-readme-stats)
 [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feiyuxiaoThu&hide=javascript,html,cmake,tex&layout=compact&theme=swift)
-[wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=feiyuxiaoThu)
+
 
 🚧 📕 ***\*Useful Blog Posts\****
 
