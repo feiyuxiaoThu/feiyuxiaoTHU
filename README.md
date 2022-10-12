@@ -8,7 +8,9 @@
     <img src="https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/long.jpg" width="330"/>
 </p>
 
+<p float="left">
 <img src="https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/group.jpg" width="800"/>
+</p>
 
 ### Info
 * 🔬 Master student under supervision of **[Prof. Qing Zhou](http://www.svm.tsinghua.edu.cn/essay/75/1831.html)**;
