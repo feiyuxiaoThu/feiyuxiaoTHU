@@ -9,7 +9,8 @@
 </p>
 
 <p float="left">
-<img src="https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/group.jpeg" width="800"/>
+<img src="https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/group.jpeg" width="450"/>
+<img src="https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/tsien.jpeg" width="450"/>
 </p>
 
 ### Info
