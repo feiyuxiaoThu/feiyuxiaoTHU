@@ -2,9 +2,12 @@
 <h3>Autonomous driving software engineer and life-long learner</h3>
 
 ![re250 (Small)](https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/long.jpg)
+
 <center>
 <figure>
 <img src="https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/long.jpg" />
+·
+·
 ·
 <img src="https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/long.jpg" />
 </figure>
