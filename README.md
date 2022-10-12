@@ -21,4 +21,7 @@
 
 
 
-🚧 **My Todoist Stats: ⬇️**
+🚧 📕 ***\*Useful Blog Posts\****
+
+\- [知乎-911双子塔如何倒塌](https://feiyuxiaothu.github.io/posts/911%E5%8F%8C%E5%AD%90%E5%A1%94%E5%A6%82%E4%BD%95%E5%80%92%E5%A1%8C/)
+
