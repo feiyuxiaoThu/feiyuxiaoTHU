@@ -12,10 +12,13 @@
 
 ### Research
 
-🔭 My main interests focus on Motion Planning and Decision Making in Mobile Robos(Especially in autonomous vehicles). 
+🔭 My main interests focus on **Motion Planning and Decision Making** in Mobile Robos(Especially in autonomous vehicles). 
+
 🌱 I’m currently learning robot SLAM and DL-based motion prediction.
-🤔 I’m developing projects on specific topics like urban intesection driving and non-cooperative merging control, and I'm open to related discussions!
-💬 I have research experience in lithium-ion batteries and solid mechanics and ask me about those hhh.
+
+🤔 I’m developing projects on specific topics like *urban intesection driving* and *non-cooperative merging control*, and I'm open to related discussions!
+
+💬 I have research experience in lithium-ion batteries and solid mechanics and ask me about those topics.
 
 
 ---
