@@ -3,9 +3,9 @@
 
 
 <p float="left">
-    <img src="https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/long.jpg" width="300"/>
-    <img src="https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/long.jpg" width="300"/>
-    <img src="https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/long.jpg" width="300"/>
+    <img src="https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/long.jpg" width="350"/>
+    <img src="https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/long.jpg" width="350"/>
+    <img src="https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/long.jpg" width="350"/>
 </p>
 
 ### Info
