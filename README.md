@@ -16,8 +16,14 @@
 * 📄 2021 [Impedance-based diagnosis of internal mechanical damage for large-format lithium-ion batteries](https://www.sciencedirect.com/science/article/abs/pii/S0360544221011038?via%3Dihub)
 * 📄 2020 [Mechanical Response of Laterally-Constrained Prismatic Battery Cells under Local Loading](https://saemobilus.sae.org/content/2020-01-0200/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feiyuxiaoThu)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feiyuxiaoThu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+<a href="https://github.com/feiyuxiaoThu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=feiyuxiaoThu&hide_rank=true&count_private=true&show_icons=true&theme=swift&show_icons=true&hide=prs" />
+</a>
+<a href="https://github.com/feiyuxiaoThu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feiyuxiaoThu&hide=javascript,html,cmake,tex&layout=compact&theme=swift" />
+</a>
 
 <a href="mailto:feiyu.xiao@outlook.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 <a href="[https://www.zhihu.com/people/eee-28-90](https://www.zhihu.com/people/feiyuxiaoTHU)" target="_blank"><img alt="Zhihu" src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-0079FF.svg?&style=for-the-badge&logo=zhihu&logoColor=white" />
