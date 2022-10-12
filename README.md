@@ -39,7 +39,7 @@ related discussions!
 
 <a href="mailto:feiyu.xiao@outlook.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   <a href="https://www.linkedin.com/in/feiyuxiao/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-<a href="[https://www.zhihu.com/people/eee-28-90](https://www.zhihu.com/people/feiyuxiaoTHU)" target="_blank"><img alt="Zhihu" src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-0079FF.svg?&style=for-the-badge&logo=zhihu&logoColor=white" />
+<a href="[https://www.zhihu.com/people/feiyuxiaoTHU](https://www.zhihu.com/people/feiyuxiaoTHU)" target="_blank"><img alt="Zhihu" src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-0079FF.svg?&style=for-the-badge&logo=zhihu&logoColor=white" />
 
 
 🚧 📕 ***\*Useful Blog Posts\****
