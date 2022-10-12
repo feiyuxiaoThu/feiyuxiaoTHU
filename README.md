@@ -16,7 +16,7 @@
 * 📄 2021 [Impedance-based diagnosis of internal mechanical damage for large-format lithium-ion batteries](https://www.sciencedirect.com/science/article/abs/pii/S0360544221011038?via%3Dihub)
 * 📄 2020 [Mechanical Response of Laterally-Constrained Prismatic Battery Cells under Local Loading](https://saemobilus.sae.org/content/2020-01-0200/)
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feiyuxiaoThu)](https://github.com/anuraghazra/github-readme-stats)
 
 🚧 📕 ***\*Useful Blog Posts\****
 
