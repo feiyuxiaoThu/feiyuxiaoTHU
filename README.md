@@ -1,11 +1,11 @@
 <h2>Hi 👋, I'm Feiyu Xiao</h2>
 <h3>Autonomous driving software engineer and life-long learner</h3>
 
-![re250 (Small)](https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/long.jpg)
 
 <p float="left">
-    <img src="https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/long.jpg" width="400"/>
-    <img src="https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/long.jpg" width="400"/>
+    <img src="https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/long.jpg" width="300"/>
+    <img src="https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/long.jpg" width="300"/>
+    <img src="https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/long.jpg" width="300"/>
 </p>
 
 ### Info
