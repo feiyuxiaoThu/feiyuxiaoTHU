@@ -17,7 +17,7 @@
 * 📄 2020 [Mechanical Response of Laterally-Constrained Prismatic Battery Cells under Local Loading](https://saemobilus.sae.org/content/2020-01-0200/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=feiyuxiaoThu)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feiyuxiaoThu&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feiyuxiaoThu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 🚧 📕 ***\*Useful Blog Posts\****
 
