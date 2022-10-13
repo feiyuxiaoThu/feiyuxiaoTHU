@@ -42,7 +42,7 @@ related discussions!
 <a href="https://www.zhihu.com/people/feiyuxiaoTHU" target="_blank"><img alt="Zhihu" src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-0079FF.svg?&style=for-the-badge&logo=zhihu&logoColor=white" />
 
 
-🚧 📕 **\*Useful Blog Posts\***
+🚧 📕 **Useful Blog Posts**
 
 \- [知乎-911双子塔如何倒塌](https://feiyuxiaothu.github.io/posts/911%E5%8F%8C%E5%AD%90%E5%A1%94%E5%A6%82%E4%BD%95%E5%80%92%E5%A1%8C/)
   
