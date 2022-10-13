@@ -1,6 +1,7 @@
 <h2>Hi 👋, I'm Feiyu Xiao</h2>
 <h3>Autonomous driving software engineer and life-long learner</h3>
 
+![](https://komarev.com/ghpvc/?username=feiyuxiaoThu)
 
 <p float="left">
 <img src="https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/group.jpeg" width="400"/>
