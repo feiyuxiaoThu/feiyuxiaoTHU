@@ -19,7 +19,7 @@
 
 ### Research
 
-🔭 My main interests focus on **Motion Planning and Decision Making** in Mobile Robos(Especially in autonomous vehicles). 
+🔭 My main interests focus on **Motion Planning and Decision Making** in Mobile Robots(Especially in autonomous vehicles). 
 
 🌱 I’m currently learning robot SLAM and DL-based motion prediction.
 
