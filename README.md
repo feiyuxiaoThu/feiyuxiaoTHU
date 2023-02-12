@@ -15,7 +15,7 @@
 * 🌏 Visting student of **[Tokyo University](https://eng.inha.ac.kr/)** with **[Prof. Junichiro Shiomi](http://www.phonon.t.u-tokyo.ac.jp/people/shiomi/?lang=en)**;
 * 🎓 B.S. at THU under supervision of **[Prof. Bingyang Cao](https://www.hy.tsinghua.edu.cn/info/1155/1858.htm)**;
 
-**Please refer to my profile in [feiyuxiao's cv](https://feiyuxiao.github.io/) to know more about me!**
+**Please refer to my profile in [feiyuxiao's personal site](https://feiyuxiao.github.io/) to know more about me!**
 
 ### Research
 
