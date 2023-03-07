@@ -1,4 +1,4 @@
-<h2>Hi 👋, I'm Feiyu Xiao</h2>
+<h2>Hi 👋, I'm Feiyu Xiao</h2>  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=feiyuxiaoThu.feiyuxiaoThu">
 <h3>Autonomous driving engineer and life-long learner</h3>
 
 
