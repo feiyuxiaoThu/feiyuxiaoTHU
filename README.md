@@ -32,8 +32,8 @@ related discussions!
 </div>
 
 <div align=center>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=feiyuxiaoThu&theme=react&bg_color=20232A">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feiyuxiaoThu&langs_count=10?hide=html,css,scss&layout=compact&theme=react&
+   <td><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=feiyuxiaoThu&theme=react&bg_color=20232A"></td>
+   <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feiyuxiaoThu&langs_count=10?hide=html,css,scss&layout=compact&theme=react&bg_color=20232A"></td>
 </div>
 
 <div align=center>
