@@ -7,6 +7,21 @@
 <img src="https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/xinya.jpeg" width="400"/>
 </p>
 
+<div align=center>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=feiyuxiaoThu&count_private=true&theme=react&bg_color=20232A">
+</div>
+
+<table cellspacing="0" cellpadding="0">
+  <tr align="center" valign="middle">
+    <td><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=feiyuxiaoThu&theme=react&bg_color=20232A"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feiyuxiaoThu&langs_count=10?hide=html,css,scss&layout=compact&theme=react&bg_color=20232A"></td>
+  </tr>
+</table>
+
+<div align=center>
+  <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=feiyuxiaoThu&theme=react-dark&bg_color=20232A">
+</div>
+
 
 
 ### Info
@@ -28,22 +43,6 @@ related discussions!
 
 💬 I have research experience in lithium-ion batteries and solid mechanics and ask me about those topics.
 
-
-
-<div align=center>
-  <img width="90%" src="https://github-readme-stats.vercel.app/api?username=feiyuxiaoThu&count_private=true&theme=react&bg_color=20232A">
-</div>
-
-<table cellspacing="0" cellpadding="0">
-  <tr align="center" valign="middle">
-    <td><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=feiyuxiaoThu&theme=react&bg_color=20232A"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feiyuxiaoThu&langs_count=10?hide=html,css,scss&layout=compact&theme=react&bg_color=20232A"></td>
-  </tr>
-</table>
-
-<div align=center>
-  <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=feiyuxiaoThu&theme=react-dark&bg_color=20232A">
-</div>
 
 
 
