@@ -3,8 +3,8 @@
 
 
 <p float="center">
-<img src="https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/group.jpeg" width="420"/>
-<img src="https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/xinya.jpeg" width="420"/>
+<img src="https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/group.jpeg" width="400"/>
+<img src="https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/xinya.jpeg" width="400"/>
 </p>
 
 <!--
@@ -29,7 +29,7 @@ related discussions!
 -->
 
 <div align=center>
-  <img width="95%" src="https://github-readme-stats.vercel.app/api?username=feiyuxiaoThu&count_private=true&theme=react&bg_color=20232A">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=feiyuxiaoThu&count_private=true&theme=react&bg_color=20232A">
 </div>
 
 <table cellspacing="0" cellpadding="0">
