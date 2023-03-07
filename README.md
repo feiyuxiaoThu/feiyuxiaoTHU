@@ -2,7 +2,7 @@
 <h3>Autonomous driving engineer and life-long learner</h3>
 
 
-<p float="left">
+<p float="center">
 <img src="https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/group.jpeg" width="420"/>
 <img src="https://raw.githubusercontent.com/feiyuxiaoThu/feiyuxiaoTHU/main/Fig/xinya.jpeg" width="420"/>
 </p>
