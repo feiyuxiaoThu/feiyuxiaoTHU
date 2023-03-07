@@ -29,17 +29,21 @@ related discussions!
 💬 I have research experience in lithium-ion batteries and solid mechanics and ask me about those topics.
 
 
----
-<a href="https://github.com/feiyuxiaoThu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=feiyuxiaoThu&hide_rank=true&count_private=true&show_icons=true&theme=swift&show_icons=true&hide=prs" />
-</a>
-<a href="https://github.com/feiyuxiaoThu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feiyuxiaoThu&hide=javascript,html,cmake,tex&layout=compact&theme=swift" />
-</a>
 
-<a href="mailto:feiyu.xiao@outlook.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-  <a href="https://www.linkedin.com/in/feiyuxiao/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-<a href="https://www.zhihu.com/people/feiyuxiaoTHU" target="_blank"><img alt="Zhihu" src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-0079FF.svg?&style=for-the-badge&logo=zhihu&logoColor=white" />
+<div align=center>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=feiyuxiaoThu&count_private=true&theme=react&bg_color=20232A">
+</div>
+
+<table cellspacing="0" cellpadding="0">
+  <tr align="center" valign="middle">
+    <td><img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=feiyuxiaoThu&theme=react&bg_color=20232A"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feiyuxiaoThu&langs_count=10?hide=html,css,scss&layout=compact&theme=react&bg_color=20232A"></td>
+  </tr>
+</table>
+
+<div align=center>
+  <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=feiyuxiaoThu&theme=react-dark&bg_color=20232A">
+</div>
 
 
 
