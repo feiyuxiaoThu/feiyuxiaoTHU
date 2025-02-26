@@ -1,5 +1,5 @@
 <h2>Hi 👋, I'm Feiyu Xiao</h2>  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=feiyuxiaoThu.feiyuxiaoThu">
-<h3>Autonomous driving engineer and life-long learner</h3>
+<h3>Autonomous driving engineer and life-long learner. Motion Planning in autonomous systems. </h3>
 
 
 <p float="center">
